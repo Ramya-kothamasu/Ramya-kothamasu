@@ -13,7 +13,7 @@
   HTML, CSS, basic Python, MySQL, or how to start as a fresher
   - How to reach me:  
   **Email**: ramyasrilakshmikothamasu@gmail.com  
-  **LinkedIn**: [linkedin.com/in/ramya-kothamasu](https://linkedin.com/in/ramya-kothamasu)
+  **LinkedIn**: [linkedin.com/in/ramya-sri-lakshmi](https://in.linkedin.com/in/ramya-sri-lakshmi)
 
 -  Fun fact:  
   I love solving logic puzzles and enjoy designing simple, clean UIs
@@ -52,7 +52,7 @@ HTML | CSS | JavaScript | Python | PHP | MySQL | Git | GitHub
 ---
 
 ### Connect with Me
-[LinkedIn](https://linkedin.com/in/ramya-kothamasu)  
+[LinkedIn](https://in.linkedin.com/in/ramya-sri-lakshmi)
 [GitHub](https://github.com/Ramya-kothamasu)  
 
 
